@@ -24,7 +24,7 @@
       content="Tsum Tsum 金幣補正計算機與 VTuber 遊戲工具網站。">
 
 <meta property="og:image"
-      content="https://zonegirlhk.github.io/coin-tool/zonegirl-channel.png">
+      content="https://zonegirlhk.github.io/Testing/zonegirl-channel.png">
 
 <meta property="og:type" content="website">
 
